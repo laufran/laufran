@@ -4,9 +4,7 @@ I'm Lauren (she/her) and I'm  an evolutionary biologist.
 I like making sense of messy biological data at my computer, and I'm especially fond of a good story involving hybridization, trait evolution, and pollination in Neotropical plant lineages.
 I'm currently a post-doc at the [Tribble Lab](https://www.tribblelab.org/) at the University of Washington.
 
-Check out [my website](https://www.laufran.github.io/) for more info on my research projects and prior positions.
-
-Want to collaborate? Send me an email at lfrankel17 at gmail.
+Check out [my website](https://www.laufran.github.io/) for more info on my research projects and prior positions. Want to collaborate? Send me an email at laufran at uw dot edu.
 
 ---------------
 
